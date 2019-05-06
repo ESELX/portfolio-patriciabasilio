@@ -1602,7 +1602,6 @@ input, select, textarea {
 
 /* Footer */
 
-<<<<<<< HEAD
 	#footer {
 		-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
 		-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
@@ -1637,6 +1636,3 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
-=======
-		}
->>>>>>> 0d7f8efa323bea77dd2008d7820a757b959a1296
